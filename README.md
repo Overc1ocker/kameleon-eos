@@ -11,4 +11,4 @@ This theme is a modification of the Kameleon plymouth theme for EndeavourOS feat
 This theme is adapted from the Kameleon project 
 
 Project: https://gitlab.com/rwml/kameleon
-Theme: https://store.kde.org/p/1323391/
+Original Theme: https://store.kde.org/p/1323391/
