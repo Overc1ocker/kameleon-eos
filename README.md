@@ -15,4 +15,4 @@ This theme is adapted from the Kameleon project
 Project: https://gitlab.com/rwml/kameleon
 Original Theme: https://store.kde.org/p/1323391/
 
-EndeavourOS background and logo: https://www.endeavouros.com
+EndeavourOS background and logo: https://endeavouros.com
