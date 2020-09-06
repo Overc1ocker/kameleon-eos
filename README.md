@@ -4,7 +4,9 @@ This theme is a modification of the Kameleon plymouth theme for EndeavourOS feat
 
 ![Kameleon-eos preview](/kameleon-eos-preview.png)
 
+#Customization
 
+To modify this theme with your own background and icon, replace bg.png and icon.png!
 
 ## Credits
 
