@@ -4,6 +4,10 @@ This theme is a modification of the Kameleon plymouth theme for EndeavourOS feat
 
 ![Kameleon-eos preview](/kameleon-eos-preview.png)
 
+# Installation
+
+Make a folder called `kameleon-eos` then paste all the files into it. Then move the folder to `/usr/share/plymouth/themes` then set the theme to `kameleon-eos` in your `/etc/plymouth/plymouthd.conf` then regenerate your initramfs using `mkinitcpio -P` 
+
 # Customization
 
 To modify this theme with your own background and icon, replace bg.png and icon.png
