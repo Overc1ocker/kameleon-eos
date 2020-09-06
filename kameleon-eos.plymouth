@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=kameleon-eos
+Description=Kameleon boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kameleon-eos
+ScriptFile=/usr/share/plymouth/themes/kameleon-eos/kameleon-eos.script
