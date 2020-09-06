@@ -2,6 +2,8 @@
 
 This theme is a modification of the Kameleon plymouth theme for EndeavourOS featuring the EndeavourOS default background, logo, and a Windows 10 like spinner.
 
+![Kameleon-eos preview](/kameleon-eos-preview.png)
+
 
 
 ## Credits
