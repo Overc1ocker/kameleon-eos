@@ -10,7 +10,7 @@ Make a folder called `kameleon-eos` then paste all the files into it. Then move 
 
 # Customization
 
-To modify this theme with your own background and icon, replace bg.png and icon.png
+To modify this theme with your own background and icon, replace bg.png and logo.png
 
 ## Credits
 
